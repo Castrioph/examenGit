@@ -1,2 +1,2 @@
-﻿Generamos una primera línea en este archivo para hacer el primer commit.
-
+Generamos una primera línea en este archivo para hacer el primer commit.
+Añadimos otra línea para hacer un segundo commit con el mismo archivo que el anterior.
