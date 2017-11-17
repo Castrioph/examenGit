@@ -1,2 +1,3 @@
 Generamos una primera línea en este archivo para hacer el primer commit.
 Añadimos otra línea para hacer un segundo commit con el mismo archivo que el anterior.
+Modificación del fichero para el punto 10 del examen de Git.
